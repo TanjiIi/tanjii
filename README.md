@@ -7,3 +7,4 @@
 ![Profile visit badge](https://komarev.com/ghpvc/?username=TanjiIi&label=PROFILE+VIEWS&color=red&style=square)
 
 
+[![Tanjistats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/TanjiIi/github-readme-stats#gh-dark-mode-only)
